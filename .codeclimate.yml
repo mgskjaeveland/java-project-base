@@ -1,0 +1,9 @@
+engines:
+  checkstyle:
+    enabled: true
+    config:
+      file: "parent/.checkstyle.xml"
+
+ratings:
+  paths:
+  - "**.java"
